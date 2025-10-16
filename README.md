@@ -1,4 +1,4 @@
-# EXP-4
+<img width="1189" height="281" alt="image" src="https://github.com/user-attachments/assets/331445a8-6921-437a-b589-f813b4030e24" /># EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -35,18 +35,55 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
+Half wave rectifier with filter and without filter:
 
-Half wave rectifier with filter:
+<img width="1192" height="565" alt="image" src="https://github.com/user-attachments/assets/25a27535-baef-4e9f-bd52-f24471ab56d2" />
 
-Bridge rectifier with filter:
+
+
+
+<img width="645" height="334" alt="image" src="https://github.com/user-attachments/assets/dad9cb5b-a96b-41fc-a2ee-ec5b197ec509" />
+
+
+
+<img width="680" height="491" alt="image" src="https://github.com/user-attachments/assets/65aac081-b716-4714-86aa-0571588f2635" />
+
+
+Bridge rectifier with filter and without filter:
+
+
+<img width="1193" height="786" alt="image" src="https://github.com/user-attachments/assets/7a877e13-952e-4450-b803-1609d5611657" />
+
+
+
+<img width="738" height="905" alt="image" src="https://github.com/user-attachments/assets/6454e9da-be9b-4fdf-8c64-1f12765c09f5" />
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+Half wave rectifier with filter and without filter:
+
+
+<img width="674" height="162" alt="image" src="https://github.com/user-attachments/assets/7e3bdc44-33d7-4c86-9970-a96cfd04d128" />
+
+Bridge rectifier with filter and without filter:
+
+
+
+<img width="660" height="214" alt="image" src="https://github.com/user-attachments/assets/af960fcd-a92b-43f3-af47-9de35e341102" />
+
 
 WAVEFORM:
 
+Half wave rectifier with filter and without filter:
+
+
+<img width="1189" height="281" alt="image" src="https://github.com/user-attachments/assets/aba5de69-b678-4105-a4ab-927959d4fb4d" />
+
+
+Bridge rectifier with filter and without filter:
+
+
+<img width="1201" height="349" alt="image" src="https://github.com/user-attachments/assets/a6e55e2e-2a6f-4d12-a17f-14e20d6d5e6c" />
 
 RESULT:
 
